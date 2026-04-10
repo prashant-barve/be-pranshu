@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @be-pranshu
 - 👀 I’m interested in ... php, larvel, javascript, nodejs, python, Django 
-- 🌱 I’m currently learning ... python, django
+- 🌱 I’m currently working ... python, django, AWS cloud
 - 💞️ I’m looking to collaborate on ... nodejs, php, django
 
 <!---
